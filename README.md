@@ -10,9 +10,12 @@ The goal of this project was to develop a restaurant recommender system that cou
 The following steps were taken to implement the restaurant recommender system:
 
 *Data collection*: A dataset of restaurant ratings was collected from a variety of online sources. The dataset included the following information:
+
 * Cuisines
 * Restaurant ID
 * Rating (1-5 stars)
+* Location
+* Reviews
 
 *Data preparation*: The dataset was cleaned and preprocessed to prepare it for use in the machine learning algorithm. This included removing incomplete or invalid data, and converting the ratings to a numerical format.
 
