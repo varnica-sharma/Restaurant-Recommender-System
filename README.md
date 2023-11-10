@@ -1,4 +1,4 @@
-# Restaurant-Recommender-System
+# Personalized-Restaurant-Recommender-System
 A restaurant recommender system is a software system that provides personalized restaurant recommendations to users based on their preferences. These systems can be used to help users discover new restaurants, find restaurants that are a good match for their dietary restrictions, or simply find a restaurant that is nearby and has good reviews.
 
 ### Project Description
