@@ -1,11 +1,11 @@
 # Restaurant-Recommender-System
 A restaurant recommender system is a software system that provides personalized restaurant recommendations to users based on their preferences. These systems can be used to help users discover new restaurants, find restaurants that are a good match for their dietary restrictions, or simply find a restaurant that is nearby and has good reviews.
 
-## Project Description
+### Project Description
 
 The goal of this project was to develop a restaurant recommender system that could provide accurate and personalized recommendations to users. The system was developed using a machine learning algorithm called collaborative filtering. Collaborative filtering algorithms work by analyzing the ratings that users have given to items in the past to learn about their preferences. The system then uses this information to recommend new items to users that they are likely to enjoy.
 
-## Project Implementation
+### Project Implementation
 
 The following steps were taken to implement the restaurant recommender system:
 
@@ -18,7 +18,7 @@ Model training: The collaborative filtering algorithm was trained on the preproc
 Model evaluation: The trained model was evaluated to assess its performance on a held-out test set. This helped to ensure that the model was able to generalize to new data.
 System deployment: The trained model was deployed to a web server so that users could access it and receive restaurant recommendations.
 
-## Project Contributions
+### Project Contributions
 
 The following contributions were made to the development of the restaurant recommender system:
 
