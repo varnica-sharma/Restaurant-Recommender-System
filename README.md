@@ -9,14 +9,14 @@ The goal of this project was to develop a restaurant recommender system that cou
 
 The following steps were taken to implement the restaurant recommender system:
 
-Data collection: A dataset of restaurant ratings was collected from a variety of online sources. The dataset included the following information:
-Cuisines
-Restaurant ID
-Rating (1-5 stars)
-Data preparation: The dataset was cleaned and preprocessed to prepare it for use in the machine learning algorithm. This included removing incomplete or invalid data, and converting the ratings to a numerical format.
-Model training: The collaborative filtering algorithm was trained on the preprocessed dataset. This involved training the algorithm to learn the relationships between users and restaurants.
-Model evaluation: The trained model was evaluated to assess its performance on a held-out test set. This helped to ensure that the model was able to generalize to new data.
-System deployment: The trained model was deployed to a web server so that users could access it and receive restaurant recommendations.
+*Data collection*: A dataset of restaurant ratings was collected from a variety of online sources. The dataset included the following information:
+* Cuisines
+* Restaurant ID
+* Rating (1-5 stars)
+*Data preparation*: The dataset was cleaned and preprocessed to prepare it for use in the machine learning algorithm. This included removing incomplete or invalid data, and converting the ratings to a numerical format.
+*Model training*: The collaborative filtering algorithm was trained on the preprocessed dataset. This involved training the algorithm to learn the relationships between users and restaurants.
+*Model evaluation*: The trained model was evaluated to assess its performance on a held-out test set. This helped to ensure that the model was able to generalize to new data.
+*System deployment*: The trained model was deployed to a web server so that users could access it and receive restaurant recommendations.
 
 ### Project Contributions
 
